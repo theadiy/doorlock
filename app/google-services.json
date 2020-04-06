@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313033891762",
+    "firebase_url": "https://face-door-lock.firebaseio.com",
+    "project_id": "face-door-lock",
+    "storage_bucket": "face-door-lock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313033891762:android:38bc5f6989f42d8dadceab",
+        "android_client_info": {
+          "package_name": "org.terna.doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313033891762-tdtn34rqa7292lgc5vh10s0eq54rb8c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.terna.doorlock",
+            "certificate_hash": "c580631eac7a45c850fc1cbe1537432e19ca6b40"
+          }
+        },
+        {
+          "client_id": "313033891762-lchb2vquvdcsqc8hge090invm9h90pqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq276-os-vBfuE_h4HeCQGWGeVI7AX6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313033891762-lchb2vquvdcsqc8hge090invm9h90pqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
