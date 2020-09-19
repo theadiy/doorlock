@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "313033891762-k3f85qmle6ato7huadpiu8t468cu9i5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.terna.doorlock",
+            "certificate_hash": "8307e6282411f69b66b37678898a34c5808eb6e9"
+          }
+        },
+        {
           "client_id": "313033891762-tdtn34rqa7292lgc5vh10s0eq54rb8c1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
